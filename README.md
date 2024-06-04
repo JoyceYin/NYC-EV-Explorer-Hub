@@ -2,7 +2,7 @@
 
 Check out Report and Dashboard: 
 - [Electric Vehicles Adoption](https://joyceyin.github.io/projects/ev/ev_adopt.html)
-- [EV Supply Equipment](https://joyceyin.github.io/projects/ev/ev_infra.html)
+- [EV Support Equipment](https://joyceyin.github.io/projects/ev/ev_infra.html)
 
 
 ### EV Adoption
