@@ -4,6 +4,7 @@ Check out Report and Dashboard:
 - [Electric Vehicles Adoption](https://joyceyin.github.io/projects/ev/ev_adopt.html)
 - [EV Support Equipment](https://joyceyin.github.io/projects/ev/ev_infra.html)
 - [EV Programs and Incentives Overview](https://joyceyin.github.io/projects/hubcontent/evpolicy.html)
+- [Understand EV Fuel Economy and Environment Label](https://joyceyin.github.io/projects/hubcontent/evfueleco.html)
 
 
 ### EV Adoption
