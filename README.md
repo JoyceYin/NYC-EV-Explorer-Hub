@@ -22,3 +22,9 @@ Check out Report and Dashboard:
 - Federal Grants and Tax Credits
 - State-level (NYS) Programs on EV purchase, charging stations, and fleet transition
 - City-level (NYC) Programs on municipal charging stations and rideshare electrification
+
+### All-Electric Fuel Economy and Environmental Impact
+- What is EPA Fuel Economy and Environment Label
+- EV Fuel Efficiency Performance
+- EV Environmental Impact
+- Dashboard for All-electric Vehicles Fuel Performance
