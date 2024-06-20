@@ -5,6 +5,7 @@ Check out Report and Dashboard:
 - [EV Support Equipment](https://joyceyin.github.io/projects/ev/ev_infra.html)
 - [EV Programs and Incentives Overview](https://joyceyin.github.io/projects/hubcontent/evpolicy.html)
 - [Understand EV Fuel Economy and Environment Label](https://joyceyin.github.io/projects/hubcontent/evfueleco.html)
+- High-Volume For-Hire Vehicles EV Transition
 
 
 ### EV Adoption
@@ -28,3 +29,7 @@ Check out Report and Dashboard:
 - EV Fuel Efficiency Performance
 - EV Environmental Impact
 - Dashboard for All-electric Vehicles Fuel Performance
+
+### High-Volume For-Hire Vehicles EV Transition
+- Understand Citywide Programs related to FHV and rideshare
+- Infrastructure availability aligning with FHV Trip Activity
