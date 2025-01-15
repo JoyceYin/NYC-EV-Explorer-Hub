@@ -1,4 +1,4 @@
-## 🚘 NYC EV Research
+## 🚘 NYC EV Explorer Hub
 
 Check out Report and Dashboard: 
 - [Electric Vehicles Adoption](https://joyceyin.github.io/projects/ev/ev_adopt.html)
